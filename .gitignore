@@ -2,3 +2,7 @@
 lib/
 Scripts/
 pyvenv.cfg
+*.log
+*.pot
+*.pyc
+__pycache__
